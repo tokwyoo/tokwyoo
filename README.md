@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+https://adriansblinkiecollection.neocities.org/stamps/e65.gif
+
+![alt text](https://adriansblinkiecollection.neocities.org/stamps/e65.gif "stamp :)")
 <!--
 **tokwyoo/tokwyoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
